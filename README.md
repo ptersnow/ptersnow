@@ -1,6 +1,6 @@
 # Hello there, I'm Pedro Henrique Neves da Silva
 
-I'm currently a teacher at IFMS - Campus Jardim and a full-stack developer
+I am currently a software engineer at the Ministry of Culture and have an emphasis on developing artificial intelligence and web applications with Laravel and React. 
 
 On my **[web portfolio](https://ptersnow.vercel.app/)**, you can find more information about my career and professional background.
 
